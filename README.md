@@ -3,7 +3,7 @@
  
  Ferramentas que serão utilizadas: 
  
- # Nodejs
- # TypeScript
- # React
- # Nextjs
+ * Nodejs 
+ * TypeScript
+ * React
+ * Nextjs
