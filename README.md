@@ -10,4 +10,3 @@ Uma semana inteira de aulas da Rocketseat para avançar para o próximo nível c
  * Nodejs 
  * TypeScript
  * React
- * Nextjs
