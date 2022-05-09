@@ -8,5 +8,10 @@ Uma semana inteira de aulas da Rocketseat para avançar para o próximo nível c
 ## 💻 Tecnologias
  
  * Nodejs 
- * TypeScript
  * React
+ * React-native
+ * TypeScript
+ * SQLite
+ * PostgreSQL
+ * Tailwindcss
+ * Prisma
